@@ -1,0 +1,14 @@
+{
+  "name": "todo-api-project",
+  "version": "0.0.1",
+  "description": "Todo API made during the \"Complete Node.js Development Course\" from Udemy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Me",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.5"
+  }
+}
