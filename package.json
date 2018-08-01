@@ -4,9 +4,13 @@
   "description": "Todo API made during the \"Complete Node.js Development Course\" from Udemy.",
   "main": "index.js",
   "scripts": {
+    "start": "node server/server.js",
     "test": "mocha server/**/*.test.js",
     "test-watch": "nodemon --exec 'npm test'"
   },
+  "engines": {
+    "node": "8.10.0"
+  }, 
   "author": "Me",
   "license": "ISC",
   "dependencies": {
