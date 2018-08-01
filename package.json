@@ -10,12 +10,13 @@
   },
   "engines": {
     "node": "8.10.0"
-  }, 
+  },
   "author": "Me",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
+    "lodash": "^4.17.10",
     "mongodb": "^2.1.18",
     "mongoose": "^5.2.4"
   },
